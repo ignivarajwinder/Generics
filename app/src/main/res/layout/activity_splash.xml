@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.igniva.genererics.SplashView
+        xmlns:app="http://schemas.android.com/apk/res/com.igniva.genererics"
+        android:id="@+id/splash_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:icon="@mipmap/ic_launcher_round"
+        app:iconColor="@color/semi_black"
+        app:duration="500"
+        app:holeFillColor="@color/white"
+        app:removeFromParentOnEnd="true" />
+
+</FrameLayout>

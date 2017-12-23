@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Genererics</string>
+
+    //Logout
+
+    <string name="logout">Are you sure you want to logout?</string>
+
+    //Login
+
+    <string name="first">Please check your credentials.</string>
+    <string name="second">Plesae enter username/email</string>
+    <string name="third">Please enter password</string>
+    <string name="fourth"></string>
+
+
+    //Signup
+
+    <string name="fillallfields">Please fill all the fields</string>
+    <string name="username">Please enter username</string>
+    <string name="email">Please enter email</string>
+    <string name="valid_email">Please enter valid email address</string>
+    <string name="password">Please enter password</string>
+    <string name="dob">Please enter a valid date of birth</string>
+
+    <string name="afterRegisteration">Your registration is successful. A verification link has been sent to your email. Please verify your account.</string>
+
+
+    //Forgot Password
+    <string name="email_forgot">Please enter email</string>
+    <string name="valid_email_forgot">Please enter valid email address</string>
+    <string name="valid_email_forgot_2">Email should be valid</string>
+
+
+    // My Friends
+
+    <string name="no_friends"> No friends</string>
+
+
+    // Create new Album
+
+    <!--invite friends-->
+    <string name="valid_email_addresses">Please check entered email addresses</string>
+    <string name="valid_email_addresses_2">Please enter valid email addresses</string>
+    <string name="album_title">Please enter title for the Album</string>
+
+
+    // Notifications
+
+    <string name="no_notifications">No Notifications</string>
+
+    <string name="no_comments_yet">No comments yet</string>
+
+</resources>

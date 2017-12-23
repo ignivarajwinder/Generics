@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="yourView">
+    <attr name="aAttr" format="dimension" />
+    <attr name="bAttr" format="dimension" />
+    <attr name="layoutTypeInt" format="integer" />
+    <attr name="layoutType" format="string" />
+    <attr name="default_layout_background" format="color" />
+    ></declare-styleable>
+
+    <declare-styleable name="TwitterSplashView">
+        <attr name="icon" format="reference"/>
+        <attr name="iconColor" format="color"/>
+        <attr name="holeFillColor" format="color"/>
+        <attr name="duration" format="integer"/>
+        <attr name="removeFromParentOnEnd" format="boolean"/>
+    </declare-styleable>
+
+</resources>
